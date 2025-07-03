@@ -33,6 +33,7 @@ const SearchInput = () => {
             }
         }, 500)
 
+
     }, [searchQuery, router, searchParams, pathname]);
 
     return (
